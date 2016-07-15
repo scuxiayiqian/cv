@@ -8,9 +8,9 @@ $(document).ready(function() {
     if (mobilecheck()) {
         $('html').addClass('mobile');
     } else {
-        var en = ['Home', 'Education', 'Projects', 'Skills',
+        var en = ['Home', 'Education', 'Projects','Honor' ,'Skills',
                 'Internship', 'American Experience', 'Hobbies', 'Hobbies', 'Contact Me'];
-        var cn = ['首页', '教育', '项目', '技术', '实习', '赴美', '兴趣', '兴趣', '更多'];
+        var cn = ['首页', '教育', '项目','奖项', '技术', '实习', '赴美', '兴趣', '兴趣', '更多'];
         var isCn = window.location.href.indexOf('cn.html') >= 0;
         $('.section').addClass('initing');
         $('#pagepiling').pagepiling({
