@@ -123,3 +123,41 @@ html, body {
 .pp-tooltip.left {
     left: 20px;
 }
+.pp-img-first {
+    height:360px;
+    width:540px;
+    border:5px solid #aee2d9;
+    /*-webkit-border-radius:50%;*/
+    /*-moz-border-radius:50%;*/
+    /*-o-border-radius:50%;*/
+    /*border-radius:50%*/
+}
+.pp-img-aside {
+    height:360px;
+    width:540px;
+    border:5px solid #aee2d9;
+    margin-left: 10px;
+    /*-webkit-border-radius:50%;*/
+    /*-moz-border-radius:50%;*/
+    /*-o-border-radius:50%;*/
+    /*border-radius:50%*/
+}
+.pp-square-first {
+    height:350px;
+    width:350px;
+    border:5px solid #aee2d9;
+    /*-webkit-border-radius:50%;*/
+    /*-moz-border-radius:50%;*/
+    /*-o-border-radius:50%;*/
+    /*border-radius:50%*/
+}
+.pp-square-aside {
+    height:350px;
+    width:350px;
+    border:5px solid #aee2d9;
+    margin-left: 10px;
+    /*-webkit-border-radius:50%;*/
+    /*-moz-border-radius:50%;*/
+    /*-o-border-radius:50%;*/
+    /*border-radius:50%*/
+}
